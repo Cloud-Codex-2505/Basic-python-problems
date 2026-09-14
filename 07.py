@@ -4,7 +4,7 @@ def fac(num:int)->int:
     f=1
     for i in range (1,num+1):
         f=f*i
-    return fac
+    return f
 
 
 
